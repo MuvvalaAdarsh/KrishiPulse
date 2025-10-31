@@ -1,4 +1,6 @@
 streamlit
 pandas
 numpy
-xlrd
+xlrd=2.0.1
+matplotlib
+python-dotenv
