@@ -1,3 +1,7 @@
+# **LOOM LINK 🔗**
+https://www.loom.com/share/e2c0e9f4f32941c88ef6bad018d2dd3b
+
+
 ## **KrishiPulse – Agriculture & Climate Insight Tool**
 KrishiPulse is a simple, practical prototype built for the Digital Bharat Internship – Challenge Samarth, focusing on generating insights from India’s agricultural production data and climate patterns.
 
