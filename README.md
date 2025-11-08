@@ -32,9 +32,9 @@ Project_KrishiPulse/
 │── crop_utils.py
 │── visuals.py
 │── requirements.txt
-│── .env               (not pushed – contains API key)
+│── .env               
 │── .gitignore
-└── data/              (ignored – local dataset files)
+└── data/              
 ```
 ____________________
 
